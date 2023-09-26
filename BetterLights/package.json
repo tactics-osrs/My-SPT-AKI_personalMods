@@ -1,9 +1,0 @@
-{
-    "name": "BetterLights",
-    "author": "TheEyeOfAres",
-    "license": "Attribution-ShareAlike 4.0 International",
-    "main": "src/mod.js",
-    "version": "4.0.0",
-    "akiVersion": "3.6.*",
-    "devdependencies": {}
-}
