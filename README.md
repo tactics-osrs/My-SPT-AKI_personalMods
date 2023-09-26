@@ -5,4 +5,4 @@ The source code is found at the following link: https://www.sp-tarkov.com/ (curr
 
 I made small to medium-sized changed to most aspects of the game which are accessible within the JavaScript SPT-AKI framework. I made no changed to the game's engine.
 
-Tweaks include things like shop prices/availabilities, enemy behaviors, quests and progression, etc.
+Tweaks include things like shop prices/availabilities, enemy behaviors, quests and progression, server modifiers/amplifiers, etc.
