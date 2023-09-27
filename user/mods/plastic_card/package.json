@@ -1,0 +1,8 @@
+{
+    "name": "Plastic_card",
+    "author": "unknown",
+    "version": "3.6.0",
+    "license": "use",
+    "main": "src/config.js",
+    "akiVersion": "3.6.X"
+}

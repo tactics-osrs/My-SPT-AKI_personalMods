@@ -1,0 +1,8 @@
+{
+	"manifest": [
+		{
+			"key": "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+			"dependencyKeys": []
+		}
+	]
+}
